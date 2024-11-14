@@ -12,8 +12,8 @@ public class Base {
     }
 
     public void night() {
-        
-    	//코드작성할것
+        System.out.println("밤에는 숙면");
+        //코드작성할것
     }
     
     public void afternoon(){
